@@ -1,0 +1,14 @@
+numpy
+tqdm
+keras
+opencv-python
+tqdm
+mlflow
+scikit-learn
+matplotlib
+scikit-image
+streamlit
+psutil
+memory-profiler
+segmentation-models==1.0.1
+tensorflow
